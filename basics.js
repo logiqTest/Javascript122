@@ -47,3 +47,5 @@ let firstName = 'John'
 let lastName = 'Park'
 let age = 22
 console.log('My name is', firstName + ' ' + lastName + ', ' + 'my age is', age) //My name is John Park , my age is 22
+
+//Updating basics.js
