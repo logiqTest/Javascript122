@@ -30,3 +30,5 @@ console.log(myName)
 
 let fullName = (firstName, lastName) => firstName + ' ' + lastName
 console.log(fullName('John', 'Park'))
+
+//test
