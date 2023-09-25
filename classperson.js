@@ -20,7 +20,8 @@ export class Person {
   }
 }
 
-let shiva = new Person('shiva', 'dhanush', 27, 'M')
 //console.log(shiva.fullName())
 
 //console.log(shiva.location())
+
+//These are extra file information needed for github
