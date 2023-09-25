@@ -15,3 +15,5 @@ console.log(Tesla.color)
 
 let Toyoto = new Car('Blue', 'E10', 'Toyoto', 55000, 'Not available')
 console.log(Toyoto.price)
+
+//retest this test file
